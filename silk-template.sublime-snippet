@@ -1,0 +1,27 @@
+<snippet>
+  <content><![CDATA[
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>${1}</title>
+  </head>
+
+  <body>
+
+    <!-- some header / nav placeholder -->
+
+    <div id="silk-view">
+      <!-- Silk view content goes here -->
+    </div>
+
+    <!-- some footer placeholder -->
+  </body>
+</html>
+
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>skt</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.html</scope>
+</snippet>
