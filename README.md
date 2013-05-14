@@ -6,7 +6,9 @@ A collection of [Silk](http://www.silkyweb.org) snippets for Sublime Text 2.
 
 ## Install
 
-Use [Package Control](http://wbond.net/sublime_packages/package_control).
+Just grab the download, or clone, then put the snippets in your 'packages/User' directory.
+
+Alternatively use [Package Control](http://wbond.net/sublime_packages/package_control).
 
 ## Usage
 
